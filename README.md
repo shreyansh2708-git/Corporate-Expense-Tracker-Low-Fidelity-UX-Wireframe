@@ -4,7 +4,7 @@ A grayscale, low-fidelity wireframe exploring the end-to-end user flow for corpo
 
 🔗 **Live Prototype:** https://www.figma.com/make/IS0PhENskcUdPcYug6kffh/Expense-Tracking-App-Wireframe?t=Zp4tzymF6if45QWX-1
 
-![Full Wireframe — All 3 Screens Side-by-Side] <img width="3948" height="2915" alt="image" src="https://github.com/user-attachments/assets/81291cae-9e50-487a-83e2-4a0b304ff9d6" />
+<img width="3948" height="2915" alt="Full Wireframe — All 3 Screens Side-by-Side" src="https://github.com/user-attachments/assets/81291cae-9e50-487a-83e2-4a0b304ff9d6" />
 
 
 ---
