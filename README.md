@@ -4,7 +4,7 @@ A grayscale, low-fidelity wireframe exploring the end-to-end user flow for corpo
 
 🔗 **Live Prototype:** https://www.figma.com/make/IS0PhENskcUdPcYug6kffh/Expense-Tracking-App-Wireframe?t=Zp4tzymF6if45QWX-1
 
-![Full Wireframe — All 3 Screens Side-by-Side]<img width="3948" height="2915" alt="image" src="https://github.com/user-attachments/assets/81291cae-9e50-487a-83e2-4a0b304ff9d6" />
+![Full Wireframe — All 3 Screens Side-by-Side] <img width="3948" height="2915" alt="image" src="https://github.com/user-attachments/assets/81291cae-9e50-487a-83e2-4a0b304ff9d6" />
 
 
 ---
@@ -29,7 +29,7 @@ Each screen below maps to one of those moments.
 
 ## Screen 1 — Receipt Scanner
 
-![Screen 1 — Receipt Scanner]<img width="307" height="326" alt="Screenshot 2026-06-20 021652" src="https://github.com/user-attachments/assets/573e9478-bbd8-4894-bf6b-4841aa36c42a" />
+![Screen 1 — Receipt Scanner] <img width="307" height="326" alt="Screenshot 2026-06-20 021652" src="https://github.com/user-attachments/assets/573e9478-bbd8-4894-bf6b-4841aa36c42a" />
 
 
 Full-bleed camera interface as the entry point — no menu, no extra taps before the user can start capturing. I used dashed L-shaped corner brackets to define the scan zone, since this is a pattern most users already recognize from payment apps and document scanners — it borrows familiarity instead of teaching a new gesture.
@@ -42,7 +42,7 @@ Full-bleed camera interface as the entry point — no menu, no extra taps before
 
 ## Screen 2 — Expense Form (AI Auto-Fill)
 
-![Screen 2 — Expense Form]<img width="309" height="310" alt="Screenshot 2026-06-20 021709" src="https://github.com/user-attachments/assets/a4dc53aa-1cd3-4215-8fcc-e678c38253ac" />
+![Screen 2 — Expense Form] <img width="309" height="310" alt="Screenshot 2026-06-20 021709" src="https://github.com/user-attachments/assets/a4dc53aa-1cd3-4215-8fcc-e678c38253ac" />
 
 
 This is the screen I spent the most time on, because it's where trust in the system is either built or broken. If a user has to double check every field manually, the "AI extraction" feature is pointless from a UX standpoint.
@@ -54,7 +54,7 @@ This is the screen I spent the most time on, because it's where trust in the sys
 
 ## Screen 3 — Status Tracker
 
-![Screen 3 — Status Tracker]<img width="316" height="327" alt="Screenshot 2026-06-20 021720" src="https://github.com/user-attachments/assets/decaaada-6ce6-48eb-acda-b1f9f8df7c63" />
+![Screen 3 — Status Tracker] <img width="316" height="327" alt="Screenshot 2026-06-20 021720" src="https://github.com/user-attachments/assets/decaaada-6ce6-48eb-acda-b1f9f8df7c63" />
 
 
 The most overlooked screen in most expense tools is the one after submission — and it's usually the one users check most often, out of anxiety more than anything else.
