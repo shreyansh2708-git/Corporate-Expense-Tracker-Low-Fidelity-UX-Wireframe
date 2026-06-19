@@ -29,7 +29,7 @@ Each screen below maps to one of those moments.
 
 ## Screen 1 — Receipt Scanner
 
-![Screen 1 — Receipt Scanner] <img width="307" height="326" alt="Screenshot 2026-06-20 021652" src="https://github.com/user-attachments/assets/573e9478-bbd8-4894-bf6b-4841aa36c42a" />
+![Screen 1 — Receipt Scanner] ( <img width="307" height="326" alt="Screenshot 2026-06-20 021652" src="https://github.com/user-attachments/assets/573e9478-bbd8-4894-bf6b-4841aa36c42a" />)
 
 
 Full-bleed camera interface as the entry point — no menu, no extra taps before the user can start capturing. I used dashed L-shaped corner brackets to define the scan zone, since this is a pattern most users already recognize from payment apps and document scanners — it borrows familiarity instead of teaching a new gesture.
